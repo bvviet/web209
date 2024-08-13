@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Laptop2(lan 2)",
+      "price": "22222",
+      "brand": "HP",
+      "id": 1,
+      "isShow": true
+    },
+    {
+      "name": "vietcr7",
+      "price": "565",
+      "isShow": true,
+      "brand": "HP",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "viet2004@gmail.com",
+      "password": "$2a$10$nSb7kKZUuiVTzWmPkuVBVeMQLfe/pG2iudlbK227HnTvC9mSH6ZLS",
+      "id": 1
+    }
+  ]
+}
